@@ -1,0 +1,14 @@
+* {
+    font-style: italic;
+    color: purple;
+}
+
+.alert-text {
+    color: red;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.severe-alert {
+    font-size: 20   px;
+}
